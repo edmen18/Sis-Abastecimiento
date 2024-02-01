@@ -1,0 +1,72 @@
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\bin\Release\Datos.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reglas\obj\Release\Reglas.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Reportes
+</name>
+</assembly>
+<members>
+<member name="T:Reportes.Dsextorno.DtExtornoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Dsextorno.DtExtornoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Dsextorno.DtExtornoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Dsextorno">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.DsOrdenServicios.DtOrdenServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsOrdenServicios.DtOrdenServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsOrdenServicios.DtOrdenServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsOrdenServicios">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.DsOrdenCompra.DtOrdenCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsOrdenCompra.DtOrdenCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsOrdenCompra.DtOrdenCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsOrdenCompra">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.DsOS.DtOrdenesServiciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsOS.DtOrdenesServiciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsOS.DtOrdenesServiciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsOS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.DsOrdenesCompra.DtOdenesCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsOrdenesCompra.DtOdenesCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsOrdenesCompra.DtOdenesCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsOrdenesCompra">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

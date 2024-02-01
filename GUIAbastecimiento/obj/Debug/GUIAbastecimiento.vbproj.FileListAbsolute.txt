@@ -1,0 +1,576 @@
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\GUIAbastecimiento.exe.config
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.exe
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\GUIAbastecimiento.exe
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\GUIAbastecimiento.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\GUIAbastecimiento.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmNavegaSunat.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmNavegaSunat.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmNavegaSunat.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+D:\Proyectos\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe.config
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.exe
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.xml
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\SAB.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmModOrdenCompra.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmNavegaSunat.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+E:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.exe
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.pdb
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\SAB.xml
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.dll
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.dll
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.dll
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Datos.xml
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.pdb
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reportes.xml
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.pdb
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\bin\Debug\Reglas.xml
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.AboutBox1.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmAdmin.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarConvenio.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarMaterial.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarProveedor.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmBuscarUnidad.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaExtorno.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOC.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConsultaOS.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmConvenios.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmExtorno.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.frmGeneraSiaf.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmImpuestos.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmInicioSesion.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmMaterial.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmModOrdenCompra.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmModOrdenServicio.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmNavegaSunat.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenCompra.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmOrdenServicio.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProveedores.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmProyectos.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRegistrarUnidades.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepExt.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOC.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmRepOS.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReserva.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmReservaOC.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUnidad.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.FrmUsuarios.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.MDIPrincipal.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.Resources.resources
+D:\Proyectos\visual 2008\GUIAbastecimiento\GUIAbastecimiento\obj\Debug\GUIAbastecimiento.vbproj.GenerateResource.Cache

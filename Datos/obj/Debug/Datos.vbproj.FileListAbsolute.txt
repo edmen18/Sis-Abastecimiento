@@ -1,0 +1,18 @@
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\bin\Debug\Datos.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\bin\Debug\Datos.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\bin\Debug\Datos.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\Datos.Resources.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\Datos.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\Datos.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Datos\obj\Debug\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Debug\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Debug\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Debug\Datos.pdb

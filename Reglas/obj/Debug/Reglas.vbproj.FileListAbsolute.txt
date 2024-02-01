@@ -1,0 +1,60 @@
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reglas\obj\Debug\Reglas.pdb

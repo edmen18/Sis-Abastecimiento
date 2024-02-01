@@ -1,0 +1,18 @@
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Release\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Release\Datos.pdb
+D:\Proyectos\GUIAbastecimiento\Datos\bin\Release\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\Datos.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\Datos.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\Datos.dll
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\Datos.xml
+D:\Proyectos\GUIAbastecimiento\Datos\obj\Release\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\bin\Release\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\bin\Release\Datos.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\bin\Release\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\Datos.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\Datos.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\Datos.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\Datos.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Datos\obj\Release\Datos.pdb

@@ -1,0 +1,60 @@
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+C:\Users\Edgar\Desktop\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+D:\Proyectos\hackers 3 conspiracion en la red\Abastecimientos_FABIAN\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+D:\Proyectos\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.pdb
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\bin\Release\Reportes.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.FrmReporte.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.Resources.resources
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.dll
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.xml
+D:\Proyectos\Abas18\Abastecimientos\GUIAbastecimiento\Reportes\obj\Release\Reportes.pdb

@@ -1,0 +1,50 @@
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos_edgar\GUIAbastecimiento\Reportes\obj\Debug\Reportes.pdb
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\abas_0306\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\Net\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\bin\Debug\Reportes.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.dll
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.xml
+D:\Mis Proyectos\MDPNC\Abastecimientos\GUIAbastecimiento\Reportes\obj\Debug\Reportes.pdb
